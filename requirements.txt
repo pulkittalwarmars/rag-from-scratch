@@ -5,3 +5,5 @@ langchain_community
 langchain_core
 langchainhub
 python-dotenv
+chromadb
+tiktoken
