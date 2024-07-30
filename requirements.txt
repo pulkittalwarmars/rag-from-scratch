@@ -1,0 +1,7 @@
+bs4
+langchain
+langchain_openai
+langchain_community
+langchain_core
+langchainhub
+python-dotenv
