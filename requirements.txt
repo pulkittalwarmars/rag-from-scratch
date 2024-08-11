@@ -7,3 +7,8 @@ langchainhub
 python-dotenv
 chromadb
 tiktoken
+youtube-transcript-api
+pytube
+langchain-chroma
+neo4j
+langchain_experimental
